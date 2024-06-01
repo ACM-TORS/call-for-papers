@@ -1,0 +1,1 @@
+This repository serves as an archive for Call-for-papers of the Special Issues of the ACM Transactions on Recommender Systems. Check-out https://dl.acm.org/journal/tors/calls-for-papers for the most up-to-date call for papers.
